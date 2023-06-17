@@ -1,13 +1,3 @@
-#
-# This constraints file was automatically generated on 2023-05-15T11:02:39Z
-# via "eager-upgrade" mechanism of PIP. For the "v2-6-test" branch of Airflow.
-# This variant of constraints install uses the HEAD of the branch version for 'apache-airflow' but installs
-# the providers from PIP-released packages at the moment of the constraint generation.
-#
-# Those constraints are actually those that regular users use to install released version of Airflow.
-# We also use those constraints after "apache-airflow" is released and the constraints are tagged with
-# "constraints-X.Y.Z" tag to build the production image for that version.
-#
 Authlib==1.2.0
 Babel==2.12.1
 ConfigUpdater==3.1.1
